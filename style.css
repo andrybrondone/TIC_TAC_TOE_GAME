@@ -14,12 +14,14 @@ body{
 }
 
 .maincontainer {
-    border: 1px solid;
-    padding: 10px 50px;
+    padding: 10px 80px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    border-radius: 10px;
 }
 
 h1 {
     text-align: center;
+    color: rgb(255, 72, 0);
 }
 
 #grid{
@@ -46,5 +48,5 @@ p{
 }
 
 p:first-of-type{
-    color: rgb(65, 247, 65);
+    color: rgb(16, 230, 16);
 }
