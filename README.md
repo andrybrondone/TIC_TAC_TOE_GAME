@@ -1,1 +1,1 @@
-## Tit Tac Toe Game
+## Simple Tit Tac Toe Game
